@@ -15,9 +15,7 @@ Skills: C / C++ / JAVASCRIPT/ HTML / CSS/REACT/NODEJS
 - 🤔 I’m looking for help with getting opportunities as a junior web developer 
 - 💬 Ask me about Javascript,C,C++,Problem Solving. 
 
-<!-- profile view -->
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> </p>
-<!-- end -->
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ualiurrahat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ualiurrahat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ualiurrahman.rahat.5)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ualiurrahat)](https://github.com/ryo-ma/github-profile-trophy)
