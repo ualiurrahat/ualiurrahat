@@ -24,7 +24,7 @@ Skills: C / C++ / JAVASCRIPT/ HTML / CSS/REACT/NODEJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ualiurrahat&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ualiurrahat)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ualiurrahat)  
 
