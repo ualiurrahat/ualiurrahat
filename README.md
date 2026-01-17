@@ -39,10 +39,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ualiurrahat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ualiurrahat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  
 </p>
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ualiurrahat&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
-</p>
+
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ualiurrahat&theme=algolia)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
