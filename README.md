@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Md. Ualiur Rahman Rahat 👋</h1>
+
+<!-- ======================= HEADER BANNER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Md.%20Ualiur%20Rahman%20Rahat&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
 <h3 align="center">EEE Graduate · CS Student · Aspiring Data Scientist · IEEE Published Researcher</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ualiurrahat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></p>
 
@@ -20,13 +26,52 @@ I'm an **Electrical & Electronic Engineering** graduate from Bangladesh, on a de
 
 ## 🏆 Competitive Programming
 
-I believe problem-solving is the backbone of great engineering. Here's where I've sharpened mine:
-
 | Platform | Achievement |
 |---|---|
 | 🥇 [Code360 by Coding Ninjas](https://www.naukri.com/code360/profile/ualiu_rahat) | **1000+ problems solved · Level 7 (Expert) Coder** |
 | 🟧 [LeetCode](https://leetcode.com/u/ualiur_rahat/) | **240+ problems solved** |
-| ⭐ [HackerRank](https://www.hackerrank.com/profile/ualiurrahat25) | **C++ ⭐⭐⭐⭐⭐ · Problem Solving ⭐⭐⭐⭐ · Python ⭐⭐⭐ · 30 Days of Code ⭐⭐⭐⭐⭐ · C ⭐⭐⭐⭐** |
+| ⭐ [HackerRank](https://www.hackerrank.com/profile/ualiurrahat25) | See verified skills below |
+
+---
+## 📊 Profile Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ualiur_rahat?theme=dark&font=baloo&ext=contest" height="180"/>
+</p>
+
+### 🟧 LeetCode
+- 240+ problems solved
+- Consistent problem-solving across DSA topics
+- 100 Days Badge & Programming Skills Badge
+
+🔗 https://leetcode.com/u/ualiur_rahat/
+
+---
+
+### ⭐ HackerRank
+
+**Skills Verified**
+
+- C++ ⭐⭐⭐⭐⭐
+- Python ⭐⭐⭐⭐⭐
+- Problem Solving ⭐⭐⭐⭐
+- 30 Days of Code ⭐⭐⭐⭐⭐
+- C ⭐⭐⭐⭐
+
+🔗 https://www.hackerrank.com/profile/ualiurrahat25
+
+---
+
+### 🥇 Code360 (Coding Ninjas)
+
+- 1000+ problems solved
+- Level 7 — Expert Coder
+- Strong DSA mastery across topics
+
+🔗 https://www.naukri.com/code360/profile/ualiu_rahat
+
+---
+
 
 ### 🎖️ Earned Badges
 
@@ -42,30 +87,34 @@ I believe problem-solving is the backbone of great engineering. Here's where I'v
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 👨‍💻 Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
 
-**Web Development**
+### 🌐 Web Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
-**Tools & Environment**
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
 
 ---
+
 
 ## 📌 Featured Repositories
 
@@ -103,7 +152,7 @@ This research explores hybrid compression techniques applied to aerial imaging s
 ## 🗺️ My Journey
 
 ```
-EEE Graduate (2023)
+EEE Graduate (2025)
        ↓
 Self-taught C++ & DSA  →  1000+ problems solved  →  IEEE Research Published
        ↓
@@ -122,7 +171,18 @@ Data Science Internships & Jobs  (Remote / In-Person)
 
 ## 🤝 Connect with Me
 
-<p align="left"><a href="https://www.linkedin.com/in/ualiurrahat/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;<a href="https://leetcode.com/u/ualiur_rahat"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>&nbsp;<a href="https://www.facebook.com/ualiurrahman.rahat.5"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/ualiurrahat/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/ualiur_rahat"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/u/ualiur_rahat"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>&nbsp;
+  <a href="https://www.facebook.com/ualiurrahman.rahat.5"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+</p>
 
 ---
 
